@@ -1,0 +1,1 @@
+# Diabetes-Prediction-Naive-Bayes.
